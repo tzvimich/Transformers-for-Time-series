@@ -1,0 +1,2 @@
+This folder contains my implementation of the version of time series prediction where the training datat is reused with a diferrence of one.
+In other words, the first training sample is X=first 18*5 samples y= next 18 samples, and then the second sample moves X and y one to the right.
